@@ -1,16 +1,40 @@
-## Hi there 👋
+![👋 Привет мой ник, Skinkvi](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
 
-<!--
-**skinkvi/Skinkvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile views](https://komarev.com/ghpvc/?username=Skinkvi&label=Profile%20views&color=0e75b6&style=flat)
 
-Here are some ideas to get you started:
+<div id="toc">
+  <ul align="center" style="list-style: none">
+    <summary>
+      <h1>
+        👋 Привет мой ник, Skinkvi
+      </h1>
+    </summary>
+  </ul>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**<h3 align="left">Свяжись со мной!:</h3>** 
+<p align="left"><a href="https://www.linkedin.com/in/sushil-magare" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://twitter.com/Sushil__SM" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?logo=X&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="spotify.skinkvi@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://github.com/https://github.com/skinkvi" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a></p>
+
+ **<h3 align="left">🚀 Я back-end web developer, пишу и люблю Go. Стараюсь использовать новые технологии, пробовать себя в чем то новом. Настоящие имя Дима. Увлеченное создаю надежные и масштабируемые микросервисы и стараюсь с каждым днем сделать их лучше! Внимательно отношусь к работе с пользователями и оптимизации производительности. </h3>**
+
+**<h3 align="left">Быстро обо мне!</h3>**
+
+- 💼 Моя работа: **Не работаю. Активно ищу!**
+- 🌱 Что я сейчас изучаю: **📚 Внутренности GO, чистую архитектуру, углубляюсь в back-end**
+- 💬 Спроси меня о: **💡 HTTP, Docker, Go, Postgres, and RESTful APIs**
+
+ **<h3 align="left">Skills</h3>**
+
+<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;"><img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" height="32" alt="PostgreSQL" style="margin-right: 4px"> <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="32" alt="MySQL" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" height="32" alt="Go" style="margin-right: 4px"> <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white" height="32" alt="SQLite" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" height="32" alt="Docker" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=white" height="32" alt="Vim" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" height="32" alt="Postman" style="margin-right: 4px"></div>
+
+ **<h3 align="left">GitHub Stats</h3>**
+
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=skinkvi&theme=catppuccin_mocha&cache_seconds=1800&border_radius=4&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&line_height=25&disable_animations=false&text_bold=true&show=" alt="GitHub stats Card" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=skinkvi&theme=catppuccin-mocha&hide_border=false&border_radius=4.5&date_format=M+j%5B%2C+Y%5D&mode=weekly&disable_animations=false&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&exclude_days=&locale=en&card_height=200" alt="GitHub streak Card" />
+</p>
+
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=skinkvi&theme=catppuccin_mocha&cache_seconds=1800&border_radius=4&hide_title=false&layout=compact&langs_count=5&card_width=400&hide_progress=false" alt="GitHub top-langs Card" />
+</p>
+
