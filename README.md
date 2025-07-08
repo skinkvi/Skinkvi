@@ -13,15 +13,9 @@
 </div>
 
 **<h3 align="left">Свяжись со мной!:</h3>** 
-<p align="left"><a href="https://www.linkedin.com/in/sushil-magare" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://twitter.com/Sushil__SM" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?logo=X&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="spotify.skinkvi@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://github.com/https://github.com/skinkvi" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a></p>
+<a href="spotify.skinkvi@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://github.com/https://github.com/skinkvi" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
- **<h3 align="left">🚀 Я back-end web developer, пишу и люблю Go. Стараюсь использовать новые технологии, пробовать себя в чем то новом. Настоящие имя Дима. Увлеченное создаю надежные и масштабируемые микросервисы и стараюсь с каждым днем сделать их лучше! Внимательно отношусь к работе с пользователями и оптимизации производительности. </h3>**
-
-**<h3 align="left">Быстро обо мне!</h3>**
-
-- 💼 Моя работа: **Не работаю. Активно ищу!**
-- 🌱 Что я сейчас изучаю: **📚 Внутренности GO, чистую архитектуру, углубляюсь в back-end**
-- 💬 Спроси меня о: **💡 HTTP, Docker, Go, Postgres, and RESTful APIs**
+ **<h3 align="left">🚀 Я back-end web developer, пишу и люблю Go. Стараюсь использовать новые технологии, пробовать себя в чем то новом. </h3>**
 
  **<h3 align="left">Skills</h3>**
 
